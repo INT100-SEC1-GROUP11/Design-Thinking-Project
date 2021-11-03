@@ -1,4 +1,4 @@
- [<< Empathize](https://github.com/INT100-SEC1-GROUP11/Design-Thinking-Project/blob/main/Empathize.md) | ***Define***  | [ Ideate >>](https://github.com/INT100-SEC1-GROUP11/Design-Thinking-Project/blob/main/Ideate.md) 
+ [<< Empathize](Empathize.md) | ***Define***  | [ Ideate >>](Ideate.md) 
 # <div align="center">  Define </div>
 
 ### Joueney Map
