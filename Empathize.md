@@ -1,5 +1,5 @@
 ***Empathize***  | [ Define >>](Define.md) 
-# <div align="center"> Empathize  </div>
+# Empathize 
 
 ----
 ##### Interview information (1)
