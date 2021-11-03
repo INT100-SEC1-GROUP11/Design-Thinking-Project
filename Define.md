@@ -1,5 +1,5 @@
  [<< Empathize](Empathize.md) | ***Define***  | [ Ideate >>](Ideate.md) 
-# <div align="center">  Define </div>
+# Define 
 
 ### Joueney Map
  <div align="center">  
