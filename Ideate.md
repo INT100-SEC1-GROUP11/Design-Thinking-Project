@@ -1,4 +1,4 @@
- [<< Define](https://github.com/INT100-SEC1-GROUP11/Design-Thinking-Project/blob/main/Define.md) | ***Ideate***  | [ Prototype >>](https://github.com/INT100-SEC1-GROUP11/Design-Thinking-Project/blob/main/Prototype.md) 
+ [<< Define](Define.md) | ***Ideate***  | [ Prototype >>](Prototype.md) 
 # <div align="center"> Ideate </div>
 
 ### Ideate
