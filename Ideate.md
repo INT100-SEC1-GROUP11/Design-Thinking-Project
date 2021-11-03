@@ -1,12 +1,12 @@
  [<< Define](https://github.com/INT100-SEC1-GROUP11/Design-Thinking-Project/blob/main/Define.md) | ***Ideate***  | [ Prototype >>](https://github.com/INT100-SEC1-GROUP11/Design-Thinking-Project/blob/main/Prototype.md) 
 # <div align="center"> Ideate </div>
 
-### Joueney Map
+### Ideate
  <div align="center">  
     <img width="70%" src="https://dummyimage.com/600x400/000/708c8c.png&text=Design+Thinking" alt="Material Bread logo">
 </div>
 
 ----
 
-### Point of View
+### Headder
  > add content
