@@ -1,5 +1,5 @@
  [<< Define](Define.md) | ***Ideate***  | [ Prototype >>](Prototype.md) 
-# <div align="center"> Ideate </div>
+# Ideate 
 
 ### Ideate
  <div align="center">  
