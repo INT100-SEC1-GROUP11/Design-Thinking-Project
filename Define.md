@@ -6,9 +6,7 @@
  ![](assets/INT100-Jouney_Map-004.gif)
  
  ***#UserID2***
- <div align="center">  
-    <img width="70%" src="https://dummyimage.com/600x400/000/708c8c.png&text=Design+Thinking" alt="Material Bread logo">
-</div>
+ ![](assets/https://dummyimage.com/600x400/000/708c8c.png&text=Design+Thinking)
 
 ----
 
