@@ -14,23 +14,23 @@
 
 ### Point of View
  ***#UserID1***
- #### We met 
+ - #### We met 
  > add content -- Bank
-  #### We were surprised to 
+  - #### We were surprised to 
  > add content  -- Bank
- #### We wonder if this means 
+ - #### We wonder if this means 
  > add content  -- Bank
-  #### It would be game-changing to
+ -  #### It would be game-changing to
  > add content  -- Bank
  
   ***#UserID2***
- #### We met 
+ - #### We met 
  > add content
-  #### We were surprised to 
+ -  #### We were surprised to 
  > add content
- #### We wonder if this means 
+ - #### We wonder if this means 
  > add content
-  #### It would be game-changing to
+  - #### It would be game-changing to
  > add content
 
 
