@@ -33,3 +33,5 @@
   #### It would be game-changing to
  > add content
 
+
+ [<< Empathize](Empathize.md) | [Back](README.md)  | [ Ideate >>](Ideate.md) 
