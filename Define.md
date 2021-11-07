@@ -8,8 +8,9 @@
  ***#UserID2***
  ![](assets/INT100-010-journey_Map.gif)
 
- ***#UserID2***
+ ***#UserID3***
  ![](asset/INT100-014-Jouney_Map.png)
+ 
 ----
 
 ### Point of View
