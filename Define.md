@@ -9,7 +9,7 @@
  ![](assets/INT100-010-journey_Map.gif)
 
  ***#UserID3***
- ![](asset/INT100-014-Jouney_Map.png)
+ ![](assets/INT100-014-Jouney_Map.png)
  
 ----
 
