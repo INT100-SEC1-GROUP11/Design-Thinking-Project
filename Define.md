@@ -6,7 +6,7 @@
  ![](assets/INT100-Jouney_Map-004.gif)
  
  ***#UserID2***
- ![](assets/https://dummyimage.com/600x400/000/708c8c.png&text=Design+Thinking)
+ ![](assets/INT100-010-journey_Map.gif)
 
 ----
 
