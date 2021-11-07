@@ -21,13 +21,36 @@
 
 -------
 
-### Ideate 
+### Logo Ideate
  
+![logo-tp](assets/Ideate/logo-tp.png)
+![logo-bank](assets/Ideate/logo-bank.png)
+![logo-karn](assets/Ideate/logo-karn.png)
+![logo-mo](assets/Ideate/logo-mo.jpg)
 
- <div align="center">  
-    <img width="70%" src="https://dummyimage.com/600x400/000/708c8c.png&text=Design+Thinking" alt="Material Bread logo">
-</div>
+-------
 
+### Feature Ideate
+
+![Feature-karn](assets/Ideate/feature-karn-1.jpg)
+![Feature-karn](assets/Ideate/feature-karn-2.jpg)
+![Feature-karn](assets/Ideate/feature-karn-2.png)
+![Feature-tp](assets/Ideate/feature-tp-1.png)
+![Feature-tp](assets/Ideate/feature-tp-2.png)
+![Feature-tp](assets/Ideate/feature-tp-3.png)
+![Feature-tp](assets/Ideate/feature-tp-4.png)
+![Feature-bank](assets/Ideate/feature-bank-1.png)
+![Feature-bank](assets/Ideate/feature-bank-2.png)
+![Feature-bank](assets/Ideate/feature-bank-3.png)
+![Feature-bank](assets/Ideate/feature-bank-4.png)
+![Feature-bank](assets/Ideate/feature-bank-5.png)
+![Feature-bank](assets/Ideate/feature-bank-6.png)
+![Feature-bank](assets/Ideate/feature-bank-7.png)
+![Feature-bomb](assets/Ideate/feature-bomb-1.png)
+![Feature-bomb](assets/Ideate/feature-bomb-2.png)
+![Feature-bomb](assets/Ideate/feature-bomb-3.png)
+![Feature-bomb](assets/Ideate/feature-bomb-4.png)
+![Feature-bomb](assets/Ideate/feature-bomb-5.png)
 
  [<< Define](Define.md) | [Back](README.md)  | [ Prototype >>](Prototype.md) 
  
