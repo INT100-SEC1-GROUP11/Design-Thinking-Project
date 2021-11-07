@@ -1,7 +1,7 @@
  [<< Empathize](Empathize.md) | ***Define***  | [ Ideate >>](Ideate.md) 
 # Define 
 
-### Joueney Map
+## Joueney Map
  ***#UserID1***
  ![](assets/INT100-Jouney_Map-004.gif)
  
@@ -20,7 +20,8 @@
  > อาจจะเกิดจากที่ใช้งานหลายโปรแกรม จนไม่สามารถตรวจเช็คได้ทุกแอป
  -  #### It would be game-changing to
  > ถ้ารวมฟีเจอร์ที่สำคัญเกี่ยวกับการเรียนมาอยู่ด้วยกัน อาจทำให้การทำงานดีขึ้น
- ## By_ฺBank
+   ## By_Bank
+ 
  ----
   ***#UserID2***
  - #### We met 
@@ -44,5 +45,6 @@
   - #### It would be game-changing to
  > ถ้าเราทำให้การเข้าถึงแอพอื่นๆนั้นดูง่ายขึ้นกดง่ายขึ้น และมีการแจ้งเตือนอย่างสม่ำเสมอในทุกๆวัน มันอาจจะทำให้ลดปัญหาในการเรียนออนไลน์ได้
 ## By_Mo
+
 
  [<< Empathize](Empathize.md) | [Back](README.md)  | [ Ideate >>](Ideate.md) 
