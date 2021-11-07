@@ -17,15 +17,17 @@
 - สามารถกดตรงปฏิทินดูไฟล์งานที่ได้รับในวันนั้นๆ หรือไฟล์ที่เราจดโน้ตในวันนั้นๆได้
 - ใช้อัลกอริทึ่มในการแก้ปัญหาหรือหาแหล่งอ้างอิงที่เกี่ยวกับงานของเรา
 
-Ref : https://github.com/INT100-SEC1-GROUP11/Design-Thinking-Project/issues/6
+***Ref : ![Issue : เลือกปัญหาที่เราพบจากบทสัมภาษณ์](https://github.com/INT100-SEC1-GROUP11/Design-Thinking-Project/issues/6)***
 
---------
+-------
+
+### Ideate 
+ 
 
  <div align="center">  
     <img width="70%" src="https://dummyimage.com/600x400/000/708c8c.png&text=Design+Thinking" alt="Material Bread logo">
 </div>
 
-----
 
-### Header
- > add content
+ [<< Define](Define.md) | [Back](README.md)  | [ Prototype >>](Prototype.md) 
+ 
