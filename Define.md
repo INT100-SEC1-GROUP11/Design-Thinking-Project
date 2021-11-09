@@ -13,7 +13,7 @@
  ![](assets/INT100-014-Jouney_Map.png)
  
   ***#UserID4***
- ![](assets/INT100-043-Jouney_map.png)
+ ![](assets/INT100-043-Journey_map.png)
 ----
 
 ### Point of View
