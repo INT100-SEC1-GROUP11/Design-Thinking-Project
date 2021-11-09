@@ -4,7 +4,7 @@
 
 ## Stories Board
 
-![Story Board](assets/testpage.gif)
+![Story Board](assets/test.gif)
 
 ## Feedback
 
