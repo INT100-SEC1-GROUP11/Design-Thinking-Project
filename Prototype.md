@@ -1,6 +1,6 @@
 [<< Ideate](Ideate.md) | ***Prototype***  | [ Test >>](Test.md) 
 # Prototype 
-![Prototype](assets/Prototype/1.png) 
+![Prototype](assets/Prototype/1.png)
 ![Prototype](assets/Prototype/2.png) 
 ![Prototype](assets/Prototype/3.png) 
 ![Prototype](assets/Prototype/4.png) 
