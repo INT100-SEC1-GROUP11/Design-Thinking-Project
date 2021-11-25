@@ -15,7 +15,7 @@
 | :star::star:  | 0  |
 | :star::star::star:  | 0  |
 | :star::star::star::star:  | 5  |
-| :star::star::star::star::star:  | 4  |
+| :star::star::star::star::star:  | 6  |
 
 | ระดับความพึงพอใจเฉลี่ย     |  4.44 |  อยู่ในระดับดี | 
 |---|---|---|
